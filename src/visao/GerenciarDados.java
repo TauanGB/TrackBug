@@ -8,12 +8,12 @@ package visao;
  *
  * @author tauan
  */
-public class Cadastro extends javax.swing.JFrame {
+public class GerenciarDados extends javax.swing.JFrame {
 
     /**
      * Creates new form CadastroFuncionario
      */
-    public Cadastro() {
+    public GerenciarDados() {
         initComponents();
     }
 

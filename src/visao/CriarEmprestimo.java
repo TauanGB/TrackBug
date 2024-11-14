@@ -9,12 +9,12 @@ package visao;
  * @author tauan
  */
 public class CriarEmprestimo extends javax.swing.JFrame {
-
+ 
     /**
      * Creates new form CadastroFuncionario
      */
     public CriarEmprestimo() {
-        initComponents();
+        initComponents();  
     }
 
     /**
@@ -271,7 +271,7 @@ public class CriarEmprestimo extends javax.swing.JFrame {
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(EntryDiaRetorno, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(LabelFuncionarios)
                     .addComponent(LabelEquipamentos))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
